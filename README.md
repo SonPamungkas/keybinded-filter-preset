@@ -3,7 +3,7 @@
 
 The Keybinded Filter Mod provides hotkey-driven control over Nuclear Option's targeting system, removing the need to repeatedly cycle through the filter list in the heat of combat.
 
-Features:
+# Features:
 - Instant Context Switching: Bind specific keys to "Air", "Ground", or "All" to immediately instruct your targeting computer to filter for those exact threats.
 - Custom Presets: Create up to 10 fully custom targeting profiles (e.g., "SEAD", "Anti-Ship", "Only MBTs") and assign them to dedicated hotkeys.
 
