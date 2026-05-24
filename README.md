@@ -1,7 +1,7 @@
-# Keybinded Filter Mod
+# Keybinded Filter Preset Mod
 <img width="1411" height="652" alt="KeybindedFilter" src="https://github.com/user-attachments/assets/f2b207ce-4391-49cf-8fad-6430eff7de71" />
 
-The Keybinded Filter Mod provides hotkey-driven control over Nuclear Option's targeting system, removing the need to repeatedly cycle through the filter list in the heat of combat.
+The Keybinded Filter Preset Mod provides hotkey-control over the targeting system to instantly switch to a custom preset, removing the need to repeatedly cycle through the filter list in the heat of combat.
 
 # Features:
 - Instant Context Switching: Bind specific keys to "Air", "Ground", or "All" to immediately instruct your targeting computer to filter for those exact threats.
