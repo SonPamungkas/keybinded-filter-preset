@@ -10,7 +10,7 @@ The Keybinded Filter Mod provides hotkey-driven control over Nuclear Option's ta
 # How to create and use custom presets:
 1. In the game, configure your MFD Targeting Filter screen exactly how you want it (e.g., turn off everything except Enemy, Ship, and Anti-Ship Missiles).
 2. Open the F1 BepInEx Configuration Manager menu.
-3. Under the "Keybinded Filter Mod" section, type a name for your preset in the "New Preset Name" box (e.g., "Anti-Ship").
+3. Under the "Keybinded Filter Mod" section, type a name for your preset in the "New Preset Name" box (e.g., "SEAD").
 4. Click the "Save Current Filter as Preset" button.
 5. In the same menu, look for "Preset 0 File" to "Preset 9 File". Click the dropdown next to the preset slot you want to assign, and select your newly saved "Anti-Ship" preset.
 6. Open your game options, go to the Keybinds menu under "Debug" or the bottom-most category, and assign a hotkey to "FilterPreset0" (or whichever number you chose).
